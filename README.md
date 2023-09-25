@@ -9,6 +9,4 @@ The evaluation measure is the macro F1 score computed on the test set.
 
 I scored an F1 score of 0.75652, which placed my submission 35th on the [leaderboard](https://www.kaggle.com/competitions/ml-2022-unibuc-23-25/leaderboard).
 
-Code documentation:
-
-[Alien-Language-Classifier.pdf](https://github.com/BogdanPopel/Alien-Language-Classifier/files/12715194/Alien-Language-Classifier.pdf)
+Code documentation: [Alien-Language-Classifier.pdf](https://github.com/BogdanPopel/Alien-Language-Classifier/files/12715284/Alien-Language-Classifier.pdf)
